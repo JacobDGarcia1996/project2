@@ -1,0 +1,46 @@
+body {
+
+  background-image: url("http://1.bp.blogspot.com/-MFGBDQYFZrU/Tc7u7mjCsOI/AAAAAAAAAEM/WH3Sxm687zc/s1600/artificial-intelligence.gif");}
+ /*this image borrowed from url("https://play.google.com/store/apps/details?id=satsumadroid.iq.test.intelligence)*/
+
+}
+
+th,td.box {
+  font-size: 20px;
+  border-style:solid;
+  border-width:2px;
+  border-color:#250352;
+  height: 600px;
+  width: 400px
+}
+
+div.problem
+{
+  color: green;
+  text-align: center;
+  background: aqua;
+}
+
+#iq{
+  float:left;
+  width:500px;
+  height:500px;
+
+}
+table{
+    text-align: center;
+    margin-left: 50%;
+
+}
+a{text-decoration:none}
+a.navigator:hover{
+text-decoration:none;
+  color:purple;}
+
+
+  span.hidden-message{
+    opacity: 0.0;
+  }
+  span.shown-message{
+    opacity: 1.0;
+  }
