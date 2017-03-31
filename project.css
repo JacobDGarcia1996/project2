@@ -28,7 +28,9 @@ div.problem
 
 }
 table{
-    text-align: center;
+  font-size: 250%;
+  color: teal;
+    text-align: left;
     margin-left: 50%;
 
 }
@@ -43,4 +45,16 @@ text-decoration:none;
   }
   span.shown-message{
     opacity: 1.0;
+  }
+  p{
+    font-size: 250%;
+    color: red;
+  }
+#codej{
+  border-style:solid;
+border-width:2px;
+border-color:#250352;
+text-align: center;
+background: aqua;}
+
   }
